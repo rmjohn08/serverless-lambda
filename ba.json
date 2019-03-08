@@ -1,0 +1,23 @@
+[
+	{
+        "planCode" : "DNT1",
+        "baseRate" : 59.57
+	},
+	{
+        "planCode" : "DNT2",
+        "baseRate" : 49.06
+	},
+	{
+        "planCode" : "DNT3",
+        "baseRate" : 40.36
+	},
+	{
+        "planCode" : "DNT4",
+        "baseRate" : 37.86
+	},
+	{
+        "planCode" : "DNT5",
+        "baseRate" : 28.05
+	}
+]
+
